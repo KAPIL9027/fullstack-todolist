@@ -1,6 +1,6 @@
 {
   "name": "goals",
-  "version": "17.9.0",
+  "version": "1.0.0",
   "description": "goals app",
   "main": "index.js",
   "scripts": {
