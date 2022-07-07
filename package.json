@@ -1,7 +1,7 @@
 {
   "name": "goals",
   "version": "1.0.0",
-   "engine": {
+   "engines": {
     "node": "17.9.0"
    },
   "description": "goals app",
