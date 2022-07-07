@@ -2,7 +2,8 @@
   "name": "goals",
   "version": "1.0.0",
    "engines": {
-    "node": "17.9.0"
+    "node": "17.9.0",
+    "npm": "8.5.5"
    },
   "description": "goals app",
   "main": "index.js",
